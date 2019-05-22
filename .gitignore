@@ -2,3 +2,5 @@
 .ok_storage.*
 .ok_messages
 .ipynb_checkpoints
+*.pyc
+__pycache__/*.*
