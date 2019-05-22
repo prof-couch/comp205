@@ -1,0 +1,3 @@
+This is a file about mice.  There are nice mice, and electronic mice. 
+A trackball can replace one kind of mouse but not the other kind. 
+I am not absolutely sure why we would want to replace a live mouse. 
