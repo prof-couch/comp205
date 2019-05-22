@@ -3,4 +3,4 @@
 .ok_messages
 .ipynb_checkpoints
 .pyc
-__pycache__
+**/__pycache__/**
