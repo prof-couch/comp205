@@ -1,0 +1,16 @@
+{
+  "name": "Learning python",
+  "endpoint": "cal/COMP205/su19/learningpython",
+  "src": [
+    "Learning python.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading", 
+      "scoring", 
+      "backup"
+  ]
+}

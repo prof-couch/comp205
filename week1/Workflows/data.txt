@@ -1,0 +1,12 @@
+dogs,20
+dogs,10
+cats,5
+birds,20
+cats,25
+squirrels,40
+squirrels,11
+flies,22
+flies,1023
+bears,1
+bears,2
+birds,45
