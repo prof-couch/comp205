@@ -1,0 +1,16 @@
+{
+  "name": "Effective python programming",
+  "endpoint": "cal/COMP205/su19/effectiveprogramming",
+  "src": [
+    "Effective python programming.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading", 
+      "scoring", 
+      "backup"
+  ]
+}
