@@ -1,6 +1,6 @@
 {
   "name": "Effective python programming",
-  "endpoint": "cal/COMP205/su19/effectiveprogramming",
+  "endpoint": "cal/COMP205/su19/effectivepython",
   "src": [
     "Effective python programming.ipynb"
   ],

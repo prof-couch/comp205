@@ -1,8 +1,8 @@
 {
-  "name": "Data wrangling",
-  "endpoint": "cal/COMP205/su19/datawrangling",
+  "name": "Imports, libraries, and modules",
+  "endpoint": "cal/COMP205/su19/importlibraries",
   "src": [
-    "Data wrangling.ipynb"
+    "Imports, libraries, and modules.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"
