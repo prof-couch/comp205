@@ -1,0 +1,16 @@
+{
+  "name": "Data filtering",
+  "endpoint": "cal/COMP205/su19/datafiltering",
+  "src": [
+    "Data filtering.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading", 
+      "scoring", 
+      "backup"
+  ]
+}

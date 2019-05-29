@@ -1,0 +1,16 @@
+{
+  "name": "Data wrangling",
+  "endpoint": "cal/COMP205/su19/datawrangling",
+  "src": [
+    "Data wrangling.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading", 
+      "scoring", 
+      "backup"
+  ]
+}
