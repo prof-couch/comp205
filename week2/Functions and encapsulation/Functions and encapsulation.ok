@@ -1,0 +1,16 @@
+{
+  "name": "Functions and encapsulation",
+  "endpoint": "cal/COMP205/su19/functionencapsulation",
+  "src": [
+    "Functions and encapsulation.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading", 
+      "scoring", 
+      "backup"
+  ]
+}
