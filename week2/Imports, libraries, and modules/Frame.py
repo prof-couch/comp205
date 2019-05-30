@@ -1,8 +1,9 @@
-# module that implements a simplified DataFrame for instructional purposes.
+# library that implements a simplified DataFrame for instructional purposes.
 
 class Frame:
     """ A small data frame package for illustration purposes """
-    data = {}
+    data = {}  # the ingested data as a dictionary
+    titles = []  # a list of column headings
     def __init__(self, tuples=None): 
         if tuples is not None: 
             self.set(tuples)
