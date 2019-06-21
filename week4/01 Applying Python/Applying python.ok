@@ -1,0 +1,16 @@
+{
+  "name": "Applying python",
+  "endpoint": "cal/COMP205/su19/applyingpython",
+  "src": [
+    "Applying python.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading", 
+      "scoring", 
+      "backup"
+  ]
+}
