@@ -9,7 +9,7 @@ test = {
           >>> n4
           array([[210, 400],
                  [500, 422],
-                 [ 40,  50]], dtype=int64)
+                 [ 40,  50]])
           """,
           'hidden': False,
           'locked': False

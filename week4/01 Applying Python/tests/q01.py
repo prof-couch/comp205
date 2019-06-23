@@ -9,7 +9,7 @@ test = {
           >>> nf
           array([[ 20,   2],
                  [100,   4],
-                 [ 30,   2]], dtype=int64)
+                 [ 30,   2]])
           """,
           'hidden': False,
           'locked': False
