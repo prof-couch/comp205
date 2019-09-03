@@ -1,8 +1,8 @@
 {
-  "name": "Notebook as a file",
-  "endpoint": "cal/COMP205/su19/notebookasafile",
+  "name": "Conditional statements",
+  "endpoint": "cal/COMP205/su19/conditionals",
   "src": [
-    "Notebook as a file.ipynb"
+    "conditional-statements.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"

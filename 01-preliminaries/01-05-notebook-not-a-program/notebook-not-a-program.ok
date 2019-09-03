@@ -1,8 +1,8 @@
 {
-  "name": "Lists and iteration",
-  "endpoint": "cal/COMP205/su19/listsanditeration",
+  "name": "Notebook not a program",
+  "endpoint": "cal/COMP205/su19/notebooknotaprogram",
   "src": [
-    "Lists and iteration.ipynb"
+    "notebook-not-a-program.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"

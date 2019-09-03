@@ -1,8 +1,8 @@
 {
-  "name": "Notebook not a program",
-  "endpoint": "cal/COMP205/su19/notebooknotaprogram",
+  "name": "Notebook as a file",
+  "endpoint": "cal/COMP205/su19/notebookasafile",
   "src": [
-    "Notebook not a program.ipynb"
+    "notebook-as-a-file.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"

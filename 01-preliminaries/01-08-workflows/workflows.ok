@@ -2,7 +2,7 @@
   "name": "Getting started",
   "endpoint": "cal/COMP205/su19/workflows",
   "src": [
-    "Workflows.ipynb"
+    "workflows.ipynb"
   ],
   "tests": {
     "tests/q*.py": "ok_test"

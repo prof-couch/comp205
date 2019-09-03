@@ -1,8 +1,8 @@
 {
-  "name": "Conditional statements",
-  "endpoint": "cal/COMP205/su19/conditionals",
+  "name": "Lists and iteration",
+  "endpoint": "cal/COMP205/su19/listsanditeration",
   "src": [
-    "Conditional statements.ipynb"
+    "lists-and-iteration.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"
