@@ -1,8 +1,8 @@
 {
-  "name": "Data wrangling",
-  "endpoint": "cal/COMP205/su19/datawrangling",
+  "name": "What is jupyter",
+  "endpoint": "cal/COMP205/su19/whatisjupyter",
   "src": [
-    "Data wrangling.ipynb"
+    "zoom-thru-jupyter.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"

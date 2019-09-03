@@ -1,4 +1,0 @@
-lawnmower,100.00,7.00,MA
-sprinkler,20,N/A,CA
-software,120.00,5.20,
-book,10.00,,MA

@@ -2,7 +2,7 @@
   "name": "Getting started",
   "endpoint": "cal/COMP205/su19/gettingstarted",
   "src": [
-    "Getting started.ipynb"
+    "getting-started.ipynb"
   ],
   "tests": {
     "tests/q*.py": "ok_test"
