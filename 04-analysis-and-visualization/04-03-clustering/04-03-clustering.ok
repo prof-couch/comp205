@@ -1,8 +1,8 @@
 {
-  "name": "Clustering",
-  "endpoint": "cal/COMP205/su19/clustering",
+  "name": "04-03 Clustering",
+  "endpoint": "cal/COMP205/fa19/04_03_clustering",
   "src": [
-    "Clustering.ipynb"
+    "04-03-clustering.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"
@@ -13,4 +13,3 @@
       "scoring", 
       "backup"
   ]
-}

@@ -1,8 +1,8 @@
 {
-  "name": "Merges and matching",
-  "endpoint": "cal/COMP205/su19/mergesandmatching",
+  "name": "03-05 Data manipulation",
+  "endpoint": "cal/COMP205/fa19/03_05_data_manipulation",
   "src": [
-    "Merges and matching.ipynb"
+    "03-05-data-manipulation.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"

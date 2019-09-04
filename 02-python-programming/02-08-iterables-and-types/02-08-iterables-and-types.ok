@@ -1,8 +1,8 @@
 {
-  "name": "Iterables and types",
-  "endpoint": "cal/COMP205/su19/iterablesandtypes",
+  "name": "02-08 Iterables and types",
+  "endpoint": "cal/COMP205/fa19/02_08_iterables_and_types",
   "src": [
-    "Iterables and types.ipynb"
+    "02-08-iterables-and-types.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"

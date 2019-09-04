@@ -1,8 +1,8 @@
 {
-  "name": "Text mining",
-  "endpoint": "cal/COMP205/su19/textmining",
+  "name": "02-10 Text mining",
+  "endpoint": "cal/COMP205/fa19/02_10_text_mining",
   "src": [
-    "Text mining.ipynb"
+    "02-10-text-mining.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"

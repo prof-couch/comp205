@@ -1,8 +1,8 @@
 {
-  "name": "Notebook as a file",
-  "endpoint": "cal/COMP205/su19/notebookasafile",
+  "name": "01-04 Notebook as a file",
+  "endpoint": "cal/COMP205/fa19/01_04_notebook_as_a_file",
   "src": [
-    "Notebook as a file.ipynb"
+    "01-04-notebook-as-a-file.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"

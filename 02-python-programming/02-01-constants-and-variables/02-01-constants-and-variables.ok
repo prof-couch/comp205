@@ -1,8 +1,8 @@
 {
-  "name": "Assignment and substitution",
-  "endpoint": "cal/COMP205/su19/assignmentsubstitution",
+  "name": "02-01 Constants and variables",
+  "endpoint": "cal/COMP205/fa19/02_01_constants_and_variables",
   "src": [
-    "Assignment and substitution.ipynb"
+    "02-01-constants-and-variables.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"

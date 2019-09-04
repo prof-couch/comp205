@@ -1,8 +1,8 @@
 {
-  "name": "Notebook not a program",
-  "endpoint": "cal/COMP205/su19/notebooknotaprogram",
+  "name": "01-05 Notebook not a program",
+  "endpoint": "cal/COMP205/fa19/01_05_notebook_not_a_program",
   "src": [
-    "Notebook not a program.ipynb"
+    "01-05-notebook-not-a-program.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"

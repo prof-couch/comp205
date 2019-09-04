@@ -1,8 +1,8 @@
 {
-  "name": "Effective python programming",
-  "endpoint": "cal/COMP205/su19/effectivepython",
+  "name": "02-05 Effective python programming",
+  "endpoint": "cal/COMP205/fa19/02_05_effective_python_programming",
   "src": [
-    "Effective python programming.ipynb"
+    "02-05-effective-python-programming.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"

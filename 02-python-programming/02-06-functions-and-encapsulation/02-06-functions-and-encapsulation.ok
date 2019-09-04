@@ -1,8 +1,8 @@
 {
-  "name": "Functions and encapsulation",
-  "endpoint": "cal/COMP205/su19/functionencapsulation",
+  "name": "02-06 Functions and encapsulation",
+  "endpoint": "cal/COMP205/fa19/02_06_functions_and_encapsulation",
   "src": [
-    "Functions and encapsulation.ipynb"
+    "02-06-functions-and-encapsulation.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"

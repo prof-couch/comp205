@@ -1,8 +1,8 @@
 {
-  "name": "Pandas and dataframes",
-  "endpoint": "cal/COMP205/su19/pandasanddataframes",
+  "name": "03-04 Dataframes in pandas",
+  "endpoint": "cal/COMP205/fa19/03_04_dataframes_in_pandas",
   "src": [
-    "Pandas and dataframes.ipynb"
+    "03-04-dataframes-in-pandas.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"

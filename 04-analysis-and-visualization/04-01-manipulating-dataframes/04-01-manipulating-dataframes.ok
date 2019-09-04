@@ -1,8 +1,8 @@
 {
-  "name": "Applying python",
-  "endpoint": "cal/COMP205/su19/applyingpython",
+  "name": "04-01 Manipulating dataframes",
+  "endpoint": "cal/COMP205/fa19/04_01_manipulating_dataframes",
   "src": [
-    "Applying python.ipynb"
+    "04-01-manipulating-dataframes.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"

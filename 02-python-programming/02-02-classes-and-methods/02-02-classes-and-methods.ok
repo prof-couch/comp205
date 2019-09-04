@@ -1,8 +1,8 @@
 {
-  "name": "Classes and methods",
-  "endpoint": "cal/COMP205/su19/classmethods",
+  "name": "02-02 Classes and methods",
+  "endpoint": "cal/COMP205/fa19/02_02_classes_and_methods",
   "src": [
-    "Classes and methods.ipynb"
+    "02-02-classes-and-methods.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"

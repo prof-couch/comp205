@@ -1,8 +1,8 @@
 {
-  "name": "Lists and iteration",
-  "endpoint": "cal/COMP205/su19/listsanditeration",
+  "name": "01-06 Lists and iteration",
+  "endpoint": "cal/COMP205/fa19/01_06_lists_and_iteration",
   "src": [
-    "Lists and iteration.ipynb"
+    "01-06-lists-and-iteration.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"

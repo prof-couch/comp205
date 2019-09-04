@@ -1,8 +1,8 @@
 {
-  "name": "Imports, libraries, and modules",
-  "endpoint": "cal/COMP205/su19/importlibraries",
+  "name": "02-07 Imports, libraries, and modules",
+  "endpoint": "cal/COMP205/fa19/02_07_imports_and_libraries",
   "src": [
-    "Imports, libraries, and modules.ipynb"
+    "02-07-imports-libraries-modules.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"

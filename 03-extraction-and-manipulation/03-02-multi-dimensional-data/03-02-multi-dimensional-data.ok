@@ -1,8 +1,8 @@
 {
-  "name": "Multi-dimensional data",
-  "endpoint": "cal/COMP205/su19/multidimensional",
+  "name": "03-02 Multi-dimensional data",
+  "endpoint": "cal/COMP205/fa19/03_02_multi_dimensional_data",
   "src": [
-    "Multi-dimensional data.ipynb"
+    "03-02-multi-dimensional-data.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"

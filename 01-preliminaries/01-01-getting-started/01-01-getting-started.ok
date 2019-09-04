@@ -1,8 +1,8 @@
 {
-  "name": "Getting started",
-  "endpoint": "cal/COMP205/su19/gettingstarted",
+  "name": "01-01 Getting started",
+  "endpoint": "cal/COMP205/fa19/01_01_getting_started",
   "src": [
-    "Getting started.ipynb"
+    "01-01-getting-started.ipynb"
   ],
   "tests": {
     "tests/q*.py": "ok_test"

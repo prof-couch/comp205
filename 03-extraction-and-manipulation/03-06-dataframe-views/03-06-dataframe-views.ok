@@ -1,8 +1,8 @@
 {
-  "name": "Series and views",
-  "endpoint": "cal/COMP205/su19/seriesandviews",
+  "name": "03-06 Dataframe views",
+  "endpoint": "cal/COMP205/fa19/03_06_dataframe_views",
   "src": [
-    "Series and views.ipynb"
+    "03-06-dataframe-views.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"

@@ -1,8 +1,8 @@
 {
-  "name": "Reading files",
-  "endpoint": "cal/COMP205/su19/readingfiles",
+  "name": "03-03 Data Ingestion",
+  "endpoint": "cal/COMP205/fa19/03_03_data_ingest",
   "src": [
-    "Reading files.ipynb"
+    "03-03-data-ingest.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"

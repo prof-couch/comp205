@@ -1,8 +1,8 @@
 {
-  "name": "Learning python",
-  "endpoint": "cal/COMP205/su19/learningpython",
+  "name": "01-03 Zoom thru python",
+  "endpoint": "cal/COMP205/fa19/01_03_zoom_thru_python",
   "src": [
-    "Learning python.ipynb"
+    "01-03-zoom-thru-python.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"

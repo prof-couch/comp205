@@ -1,8 +1,8 @@
 {
-  "name": "Getting started",
-  "endpoint": "cal/COMP205/su19/workflows",
+  "name": "01-08 Workflows",
+  "endpoint": "cal/COMP205/fa19/01_08_workflows",
   "src": [
-    "Workflows.ipynb"
+    "01-08-workflows.ipynb"
   ],
   "tests": {
     "tests/q*.py": "ok_test"

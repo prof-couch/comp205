@@ -1,8 +1,8 @@
 {
-  "name": "What is a class",
-  "endpoint": "cal/COMP205/su19/whatisaclass",
+  "name": "02-11 Reusable classes", 
+  "endpoint": "cal/COMP205/fa19/02_11_reusable_classes",
   "src": [
-    "What is a class.ipynb"
+    "02-11-reusable-classes.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"

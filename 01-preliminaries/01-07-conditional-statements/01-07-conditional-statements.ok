@@ -1,6 +1,6 @@
 {
-  "name": "Conditional statements",
-  "endpoint": "cal/COMP205/su19/conditionals",
+  "name": "01-07 Conditional statements",
+  "endpoint": "cal/COMP205/fa19/01_07_conditionals",
   "src": [
     "Conditional statements.ipynb"
   ],

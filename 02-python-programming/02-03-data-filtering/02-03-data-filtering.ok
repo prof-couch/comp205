@@ -1,8 +1,8 @@
 {
-  "name": "Data filtering",
-  "endpoint": "cal/COMP205/su19/datafiltering",
+  "name": "02-03 Data filtering",
+  "endpoint": "cal/COMP205/fa19/02_03_data_filtering",
   "src": [
-    "Data filtering.ipynb"
+    "02-03-data-filtering.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"

@@ -1,8 +1,8 @@
 {
-  "name": "Data wrangling",
-  "endpoint": "cal/COMP205/su19/datawrangling",
+  "name": "02-04 Data wrangling",
+  "endpoint": "cal/COMP205/fa19/02_04_data_wrangling",
   "src": [
-    "Data wrangling.ipynb"
+    "02-04-data-wrangling.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"
