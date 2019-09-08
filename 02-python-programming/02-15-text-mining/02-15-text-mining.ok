@@ -1,0 +1,16 @@
+{
+  "name": "02-15 Text mining",
+  "endpoint": "cal/COMP205/fa19/02_15_text_mining",
+  "src": [
+    "02-15-text-mining.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading", 
+      "scoring", 
+      "backup"
+  ]
+}

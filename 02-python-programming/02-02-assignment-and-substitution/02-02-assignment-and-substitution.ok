@@ -1,0 +1,16 @@
+{
+  "name": "02-01 Assignment and Substitution",
+  "endpoint": "cal/COMP205/fa19/02-02-assignment-and-substitution",
+  "src": [
+    "02-02-assignment-and-substitution.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading", 
+      "scoring", 
+      "backup"
+  ]
+}

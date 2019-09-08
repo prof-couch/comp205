@@ -1,0 +1,16 @@
+{
+  "name": "02-05 Classes and methods",
+  "endpoint": "cal/COMP205/fa19/02_05_classes_and_methods",
+  "src": [
+    "02-05-classes-and-methods.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading", 
+      "scoring", 
+      "backup"
+  ]
+}

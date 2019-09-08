@@ -1,0 +1,16 @@
+{
+  "name": "02-11 Patterns",
+  "endpoint": "cal/COMP205/fa19/02_11_patterns",
+  "src": [
+    "02-11-patterns.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading", 
+      "scoring", 
+      "backup"
+  ]
+}

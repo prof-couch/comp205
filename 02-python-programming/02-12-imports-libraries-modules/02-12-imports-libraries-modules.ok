@@ -1,0 +1,16 @@
+{
+  "name": "02-12 Imports, libraries, and modules",
+  "endpoint": "cal/COMP205/fa19/02_12_imports_and_libraries",
+  "src": [
+    "02-12-imports-libraries-modules.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading", 
+      "scoring", 
+      "backup"
+  ]
+}
