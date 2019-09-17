@@ -1,5 +1,5 @@
 test = {
-  'name': 'Question 4',
+  'name': 'Question 5',
   'points': 1,
   'suites': [
     {
@@ -7,7 +7,7 @@ test = {
         {
           'code': r"""
           >>> purchases.total()
-          80.0
+          80
           """,
           'hidden': False,
           'locked': False
