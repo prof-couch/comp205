@@ -1,4 +1,9 @@
 course_id,unit_int,unit_ext,module_int,module_ext,video,video_len,one_link,pdf_link,live
+10425, 02-python-programming, 02 Python Programming, 02-01-effective-python-programming, 02-01 Effective Python Programming, 1_eq6xne2e, 03:45, 1053499, 1053500, y
+10425, 02-python-programming, 02 Python Programming, 02-02-assignment-and-substitution, 02-02 Assignment and Substitution, 1_hi9xq75d, 03:17, 1053501, 1053502, y
+10425, 02-python-programming, 02 Python Programming, 02-03-functions-and-encapsulation, 02-03 Functions and Encapsulation, 1_h4945ul7, 09:49, 1053501, 1053502, y
+10425, 02-python-programming, 02 Python Programming, 02-05-classes-and-methods, 02-05 Classes and Methods, 0_tm90cl7a, 04:25, 1053493, 1053494, y
+10425, 02-python-programming, 02 Python Programming, 02-06-iterables-and-types, 02-06 Iterables and Types, 1_x7rgyko6, 06:53, 1053506, 1053505, y
 10425, 02-python-programming, 02 Python Programming, 02-11-patterns, 02-11 Rituals and Patterns, 1_w3cemhzj, 10:03, 1053508, 1053509, x
 10425, 02-python-programming, 02 Python Programming, 02-12-imports-libraries-modules, "02-12 Imports, Libraries, and Modules", 1_wsgy0avn, 06:58, 1053503, 1053504, x
 10425, 02-python-programming, 02 Python Programming, 02-13-data-wrangling, 02-13 Data Wrangling, 1_atw8w7ud, 06:09, 1053495, 1053496, n
